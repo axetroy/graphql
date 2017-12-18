@@ -1,7 +1,7 @@
 package main
 
 import (
-  "github.com/axetroy/sso"
+  "github.com/axetroy/graphql"
   "fmt"
 )
 
